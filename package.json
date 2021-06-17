@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "typescript": "^4.3.3"
+  },
+  "name": "type-challenges-solutions",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "cdbrouk@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
