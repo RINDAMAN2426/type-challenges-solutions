@@ -9,18 +9,18 @@
 1. Hello World
 
 - [link](https://github.com/type-challenges/type-challenges/blob/master/questions/13-warm-hello-world/README.md)
-- source - [helloworld.ts](warmup/helloworld.ts)
+- source - [helloworld.ts](src/warmup/helloworld.ts)
 
 ## Easy
 
 1. Pick
 
-- source - [pick.ts](easy/pick.ts)
+- source - [pick.ts](src/easy/pick.ts)
 
 2. Read only
 
-- source - [readonly.ts](easy/readonly.ts)
+- source - [readonly.ts](src/easy/readonly.ts)
 
 3. Tuple To Object
 
-- source - [tuple_to_object.ts](easy/tuple_to_object.ts)
+- source - [tuple_to_object.ts](src/easy/tuple_to_object.ts)
