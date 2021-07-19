@@ -24,3 +24,7 @@
 3. Tuple To Object
 
 - source - [tuple_to_object.ts](src/easy/tuple_to_object.ts)
+
+4. First of Array
+
+- source - [first_of_array.ts](src/easy/first_of_array.ts)
