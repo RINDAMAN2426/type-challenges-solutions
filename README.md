@@ -28,3 +28,7 @@
 4. First of Array
 
 - source - [first_of_array.ts](src/easy/first_of_array.ts)
+
+5. Length of Tuple
+
+- source - [length_of_tuple.ts](src/easy/length_of_tuple.ts)
