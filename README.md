@@ -32,3 +32,7 @@
 5. Length of Tuple
 
 - source - [length_of_tuple.ts](src/easy/length_of_tuple.ts)
+
+6. Exclude
+
+- source - [exclude.ts](src/easy/exclude.ts)
