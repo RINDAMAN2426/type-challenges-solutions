@@ -40,3 +40,7 @@
 7. Awaited
 
 - source - [awaited.ts](src/easy/awaited.ts)
+
+8. If
+
+- source - [if.ts](src/easy/if.ts)
