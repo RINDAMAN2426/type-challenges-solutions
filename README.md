@@ -36,3 +36,7 @@
 6. Exclude
 
 - source - [exclude.ts](src/easy/exclude.ts)
+
+7. Awaited
+
+- source - [awaited.ts](src/easy/awaited.ts)
