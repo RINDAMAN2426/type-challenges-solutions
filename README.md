@@ -44,3 +44,7 @@
 8. If
 
 - source - [if.ts](src/easy/if.ts)
+
+9. Includes
+
+- source - [include.ts](src/easy/include.ts)
