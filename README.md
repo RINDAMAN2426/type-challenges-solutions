@@ -1,7 +1,5 @@
 # type-challanges 풀이
 
----
-
 [type-challenges](https://github.com/type-challenges/type-challenges) 문제에 도전해보쟈..
 
 ## Warm Up
@@ -48,3 +46,9 @@
 9. Includes
 
 - source - [include.ts](src/easy/include.ts)
+
+## Medium
+
+1. ReturnType
+
+- source = [return_type.ts](src/medium/return_type.ts)
