@@ -51,4 +51,8 @@
 
 1. ReturnType
 
-- source = [return_type.ts](src/medium/return_type.ts)
+- source - [return_type.ts](src/medium/return_type.ts)
+
+2. Omit
+
+- source - [omit.ts](src/medium/omit.ts)
