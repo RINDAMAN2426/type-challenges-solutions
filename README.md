@@ -60,3 +60,7 @@
 3. Read Only 2
 
 - source - [read_only_2.ts](src/medium/read_only_2.ts)
+
+4. DeepReadOnly
+
+- source - [deep_read_only.ts](src/medium/deep_read_only.ts)
