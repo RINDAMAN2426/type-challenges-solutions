@@ -56,3 +56,7 @@
 2. Omit
 
 - source - [omit.ts](src/medium/omit.ts)
+
+3. Read Only 2
+
+- source - [read_only_2.ts](src/medium/read_only_2.ts)
