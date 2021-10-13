@@ -64,3 +64,7 @@
 4. DeepReadOnly
 
 - source - [deep_read_only.ts](src/medium/deep_read_only.ts)
+
+5. TupleToUnion
+
+- source - [tuple_to_union.ts](src/medium/tuple_to_union.ts)
