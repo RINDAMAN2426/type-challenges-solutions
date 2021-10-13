@@ -68,3 +68,7 @@
 5. TupleToUnion
 
 - source - [tuple_to_union.ts](src/medium/tuple_to_union.ts)
+
+6. Chainable Options
+
+- source - [chainable_options.ts](src/medium/chainable_options.ts)
