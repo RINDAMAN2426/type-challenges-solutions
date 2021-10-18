@@ -80,3 +80,7 @@
 8. Pop
 
 - source - [pop.ts](src/medium/pop.ts)
+
+9. Promise.All
+
+- source - [promise_all.ts](src/medium/promise_all.ts)
