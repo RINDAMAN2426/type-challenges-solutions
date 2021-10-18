@@ -76,3 +76,7 @@
 7. Last of Array
 
 - source - [last_of_array.ts](src/medium/last_of_array.ts)
+
+8. Pop
+
+- source - [pop.ts](src/medium/pop.ts)
