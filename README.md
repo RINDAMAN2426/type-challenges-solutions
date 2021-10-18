@@ -72,3 +72,7 @@
 6. Chainable Options
 
 - source - [chainable_options.ts](src/medium/chainable_options.ts)
+
+7. Last of Array
+
+- source - [last_of_array.ts](src/medium/last_of_array.ts)
