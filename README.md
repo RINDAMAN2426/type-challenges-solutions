@@ -2,85 +2,67 @@
 
 [type-challenges](https://github.com/type-challenges/type-challenges) 문제에 도전해보쟈..
 
-## Warm Up
+태그별로 분류해서 풀자
 
-1. Hello World
+## Application
 
-- [link](https://github.com/type-challenges/type-challenges/blob/master/questions/13-warm-hello-world/README.md)
-- source - [helloworld.ts](src/warmup/helloworld.ts)
+- [chainable_options](src/application/chainable_options.ts)
 
-## Easy
+## Array
 
-1. Pick
+- [first_of_array](src/array/first_of_array.ts)
+- [concat](src/array/concat.ts)
+- [inclues](src/array/includes.ts)
+- push
+- unshift
+- [last_of_array](src/array/last_of_array.ts)
+- [pop](src/array/pop.ts)
+- [promise.all](src/array/promise_all.ts)
 
-- source - [pick.ts](src/easy/pick.ts)
+## Built-In
 
-2. Read only
+- [pick](src/built_in/pick.ts)
+- [readonly](src/built_in/readonly.ts)
+- [exclude](src/built_in/exclude.ts)
+- parameters
+- [return_type](src/built_in/return_type.ts)
+- [omit](src/built_in/omit.ts)
 
-- source - [readonly.ts](src/easy/readonly.ts)
+## Deep
 
-3. Tuple To Object
+- [deep_read_only](src/deep/deep_read_only.ts)
 
-- source - [tuple_to_object.ts](src/easy/tuple_to_object.ts)
+## Infer
 
-4. First of Array
+- [return_type](src/built_in/return_type.ts)
+- [tuple_to_union](src/tuple/tuple_to_union.ts)
 
-- source - [first_of_array.ts](src/easy/first_of_array.ts)
+## Object-keys
 
-5. Length of Tuple
+- parameters
+- [deep_read_only](src/deep/deep_read_only.ts)
+- [read_only_2](src/readonly/read_only_2.ts)
 
-- source - [length_of_tuple.ts](src/easy/length_of_tuple.ts)
+## Promise
 
-6. Exclude
+- [await](src/promise/awaited.ts)
+- [promise.all](src/array/promise_all.ts)
 
-- source - [exclude.ts](src/easy/exclude.ts)
+## Read Only
 
-7. Awaited
+- [deep_read_only](src/deep/deep_read_only.ts)
+- [read_only_2](src/readonly/read_only_2.ts)
 
-- source - [awaited.ts](src/easy/awaited.ts)
+## Tuple
 
-8. If
+- [length_of_tuple](src/tuple/length_of_tuple.ts)
+- [tuple_to_union](src/tuple/tuple_to_union.ts)
 
-- source - [if.ts](src/easy/if.ts)
+## Union
 
-9. Includes
+- [omit](src/built_in/omit.ts)
+- [tuple_to_union](src/tuple/tuple_to_union.ts)
 
-- source - [include.ts](src/easy/include.ts)
+## Utils
 
-## Medium
-
-1. ReturnType
-
-- source - [return_type.ts](src/medium/return_type.ts)
-
-2. Omit
-
-- source - [omit.ts](src/medium/omit.ts)
-
-3. Read Only 2
-
-- source - [read_only_2.ts](src/medium/read_only_2.ts)
-
-4. DeepReadOnly
-
-- source - [deep_read_only.ts](src/medium/deep_read_only.ts)
-
-5. TupleToUnion
-
-- source - [tuple_to_union.ts](src/medium/tuple_to_union.ts)
-
-6. Chainable Options
-
-- source - [chainable_options.ts](src/medium/chainable_options.ts)
-
-7. Last of Array
-
-- source - [last_of_array.ts](src/medium/last_of_array.ts)
-
-8. Pop
-
-- source - [pop.ts](src/medium/pop.ts)
-
-9. Promise.All
-
-- source - [promise_all.ts](src/medium/promise_all.ts)
+- [if](src/utils/if.ts)
